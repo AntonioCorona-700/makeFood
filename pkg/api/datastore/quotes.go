@@ -1,6 +1,6 @@
 package datastore
 
-import "github.com/rlara-sarmiento/orwelly-api/pkg/api/model"
+import "github.com/AntonioCorona-700/makeFood/pkg/api/model"
 
 type Quotes interface {
 	Create(id int, obj model.Quote) error

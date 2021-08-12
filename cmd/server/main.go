@@ -5,11 +5,11 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/rlara-sarmiento/orwelly-api/pkg/api/router"
+	"github.com/AntonioCorona-700/makeFood/pkg/api/router"
 )
 
 func main() {
-	log.Println("Starting orwelly-api")
+	log.Println("Starting Food orientation")
 
 	address := "localhost:8080"
 	wt := 15 * time.Second

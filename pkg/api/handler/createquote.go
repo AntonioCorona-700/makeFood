@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/rlara-sarmiento/orwelly-api/pkg/api/core"
-	"github.com/rlara-sarmiento/orwelly-api/pkg/api/model"
+	"github.com/AntonioCorona-700/makeFood/pkg/api/core"
+	"github.com/AntonioCorona-700/makeFood/pkg/api/model"
 )
 
 func CreateQuote(w http.ResponseWriter, r *http.Request) {

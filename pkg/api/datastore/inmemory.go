@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/rlara-sarmiento/orwelly-api/pkg/api/model"
+	"github.com/AntonioCorona-700/makeFood/pkg/api/model"
 )
 
 type InMemory struct {

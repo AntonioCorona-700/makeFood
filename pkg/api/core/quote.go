@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/rlara-sarmiento/orwelly-api/pkg/api/datastore"
-	"github.com/rlara-sarmiento/orwelly-api/pkg/api/model"
+	"github.com/AntonioCorona-700/makeFood/pkg/api/datastore"
+	"github.com/AntonioCorona-700/makeFood/pkg/api/model"
 )
 
 var ds datastore.Quotes
